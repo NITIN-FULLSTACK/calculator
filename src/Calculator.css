@@ -1,0 +1,23 @@
+.bordermain{
+    width: 20rem;
+    height: 20em;
+    border: 1px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+button{
+    width: 5rem;
+    height: 2rem;
+    background-color: cornflowerblue;
+    color: aliceblue;
+}
+.input{
+    width: 19rem;
+    height: 20px;
+    
+}
+.inputHeader{
+    margin: 20px 10px 0 0;
+}
